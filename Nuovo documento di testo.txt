@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>pizzeria></title>
+</head>
+<body>
+<br>
+<center><font color="yellow">pizzeria</font>
+              <br>         <br>
+               <p>          </p>
+<img src="OIP.jfif/jfip">
+<p align="justify right/left/center">
+<a href="
+height="300"
+width="200"
+marquee
+<center><h1></h1></center>
+<table>
+<tr>
+<td>      </td>
+<tr>
+<td>pizza</td>
+<td<1500</td>
+</tr>
